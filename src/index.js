@@ -1,7 +1,0 @@
-import './styles/style.scss'
-import './js/create-game'
-import './js/shuffle'
-import './js/move-items'
-import './js/timer'
-import './js/save'
-import './js/results'
